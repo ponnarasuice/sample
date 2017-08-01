@@ -15,7 +15,8 @@
   </properties>
 
   <dependencies>
-  <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+  <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 
+  comments by author-->
 	<dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
